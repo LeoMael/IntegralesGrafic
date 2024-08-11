@@ -1,0 +1,86 @@
+# depslib dependency file v1.0
+1719366789 source:d:\c++2004\derivadas modo grafico\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1584205424 d:\c++2004\derivadas modo grafico\resource.h
+
+1719368791 source:d:\c++2004\derivadas modo grafico\main.cpp
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	"resource.h"
+
+1719891948 source:e:\una puno\ciclo 5\metodos numericos\unidad 2\derivacion e integracion\derivadas modo grafico\main.cpp
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	<iostream>
+	"resource.h"
+	<cmath>
+	<random>
+	<time.h>
+
+1719890653 e:\una puno\ciclo 5\metodos numericos\unidad 2\derivacion e integracion\derivadas modo grafico\resource.h
+
+1719890631 source:e:\una puno\ciclo 5\metodos numericos\unidad 2\derivacion e integracion\derivadas modo grafico\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1721493199 source:e:\una puno\ciclo 5\metodos numericos\unidad 2\derivacion e integracion\integral modo grafico\main.cpp
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	<iostream>
+	"resource.h"
+	<cmath>
+	<random>
+	<time.h>
+
+1719890653 e:\una puno\ciclo 5\metodos numericos\unidad 2\derivacion e integracion\integral modo grafico\resource.h
+
+1719890631 source:e:\una puno\ciclo 5\metodos numericos\unidad 2\derivacion e integracion\integral modo grafico\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1721706126 source:e:\una puno\ciclo 5\metodos numericos\unidad 2\all\integral modo grafico\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1721706083 e:\una puno\ciclo 5\metodos numericos\unidad 2\all\integral modo grafico\resource.h
+
+1721706466 source:e:\una puno\ciclo 5\metodos numericos\unidad 2\all\integral modo grafico\main.cpp
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	<iostream>
+	"resource.h"
+	<cmath>
+	<random>
+	<time.h>
+	<bits/stdc++.h>
+
+1722043393 source:e:\una puno\ciclo 5\metodos numericos\unidad 2\all\integral_modo_grafico\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1722043393 e:\una puno\ciclo 5\metodos numericos\unidad 2\all\integral_modo_grafico\resource.h
+
+1722043510 source:e:\una puno\ciclo 5\metodos numericos\unidad 2\all\integral_modo_grafico\main.cpp
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	<iostream>
+	"resource.h"
+	<bits/stdc++.h>
+
